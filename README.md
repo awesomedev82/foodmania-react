@@ -1,6 +1,12 @@
 # Tech Mania
 
-Tech Mania is an online recipe store application designed for food enthusiasts who are looking for a hassle-free and convenient way to access and store their favorite recipes. The application is built with the latest frontend technologies to provide an exceptional user experience.
+Tech Mania is an online recipe store application designed for food enthusiasts who are looking for a hassle-free and convenient way to access and store their favorite recipes.
+
+## Demo
+
+![Home](https://github.com/awesomedev82/foodmania-react/assets/149862258/1c37668c-e01d-4650-9882-51aa4deed4b4)
+
+![recipe](https://github.com/awesomedev82/foodmania-react/assets/149862258/9b95c4ef-7053-4d1a-a75c-edf5eb0c97a5)
 
 ## Features
 
@@ -18,7 +24,7 @@ Tech Mania is an online recipe store application designed for food enthusiasts w
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/[username]/Tech-Mania.git`
+1. Clone the repository: `git clone https://github.com/awesomedev82/foodmania-react.git`
 2. Navigate to the project directory: `cd Tech-Mania`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
